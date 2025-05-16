@@ -1,4 +1,4 @@
-# CS549 - Fall 2024 Project
+# Pick-and-Place-Path-Planning-for-Robotic
 
 **TAMP For Sequential Robotic Manipulation in Table Cleaning Enviroment**
 
